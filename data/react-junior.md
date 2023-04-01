@@ -25,29 +25,30 @@ npm run eject
 
 #### 函数组件
 
-```react
+```js
 function Home(props) {
     // 依赖设置为空，表示为只有第一次加载时执行，避免重复请求
     // react@v18 app.js 中使用 <React.StrictMode> 严格模式下， useEffect 会执行两遍，但生产环境不影响
     useEffect(() => {
-      console.log('请求 API');
-    },[])
+        console.log('请求 API');
+    }, [])
     return (
         <div>
-        	Home
+            Home
         </div>
     )
 }
+
 export default Home;
 ```
 
 #### 类组件
 
-```react
+```js
 class Home extends React.Component {
-  render() {
-    return <h1>Hello, {this.props.name}</h1>;
-  }
+    render() {
+        return <h1>Hello, {this.props.name}</h1>;
+    }
 }
 ```
 
@@ -55,20 +56,21 @@ class Home extends React.Component {
 
 #### 变量
 
-```react
+```js
 const [navActive, setNavActive] = useState(0);
 ```
 
 #### 参数
 
-```react
+```js
 function Home(props) {
     return (
         <div>
-        	{props.name}
+            {props.name}
         </div>
     )
 }
+
 export default Home;
 ```
 
@@ -86,20 +88,20 @@ export default Home;
 
 ### 安装
 
-```
+```shell
 yarn add react-router-dom
 npm install -save react-router-dom
 ```
 
 ### 代码
 
-```react
+```js
 // 路由配置
 <Router>
-  <Routes>
-    <Route path="/" element={<Home/>}/>
-    <Route path="/user/mine" element={<Mine/>}/>
-  </Routes>
+    <Routes>
+        <Route path="/" element={<Home/>}/>
+        <Route path="/user/mine" element={<Mine/>}/>
+    </Routes>
 </Router>
 // 路由跳转
 const navigate = useNavigate();
