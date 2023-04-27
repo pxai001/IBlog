@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a14eb273.css",
-    "main.js": "/static/js/main.60ee5381.js",
+    "main.css": "/static/css/main.fe3d7f3d.css",
+    "main.js": "/static/js/main.43e06dab.js",
     "static/js/787.5793e504.chunk.js": "/static/js/787.5793e504.chunk.js",
     "static/media/PingFangSimple.ttf": "/static/media/PingFangSimple.fba8470f357075fc3481.ttf",
     "static/media/OPPOSans-R.ttf": "/static/media/OPPOSans-R.b4f47a06ab6d6eb6e24c.ttf",
     "static/media/SourceHanSansCN-Regular.otf": "/static/media/SourceHanSansCN-Regular.31bd8a696e59644243d6.otf",
     "static/media/MiSans-Normal.ttf": "/static/media/MiSans-Normal.65cb6e984a400e403e33.ttf",
     "index.html": "/index.html",
-    "main.a14eb273.css.map": "/static/css/main.a14eb273.css.map",
-    "main.60ee5381.js.map": "/static/js/main.60ee5381.js.map",
+    "main.fe3d7f3d.css.map": "/static/css/main.fe3d7f3d.css.map",
+    "main.43e06dab.js.map": "/static/js/main.43e06dab.js.map",
     "787.5793e504.chunk.js.map": "/static/js/787.5793e504.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a14eb273.css",
-    "static/js/main.60ee5381.js"
+    "static/css/main.fe3d7f3d.css",
+    "static/js/main.43e06dab.js"
   ]
 }
