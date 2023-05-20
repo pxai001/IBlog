@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9aae9d02.css",
-    "main.js": "/static/js/main.8f2e0979.js",
+    "main.css": "/static/css/main.92e4c1a8.css",
+    "main.js": "/static/js/main.a7f10d69.js",
     "static/js/787.5793e504.chunk.js": "/static/js/787.5793e504.chunk.js",
     "static/media/PingFangSimple.ttf": "/static/media/PingFangSimple.fba8470f357075fc3481.ttf",
     "static/media/OPPOSans-R.ttf": "/static/media/OPPOSans-R.b4f47a06ab6d6eb6e24c.ttf",
     "static/media/SourceHanSansCN-Regular.otf": "/static/media/SourceHanSansCN-Regular.31bd8a696e59644243d6.otf",
     "static/media/MiSans-Normal.ttf": "/static/media/MiSans-Normal.65cb6e984a400e403e33.ttf",
     "index.html": "/index.html",
-    "main.9aae9d02.css.map": "/static/css/main.9aae9d02.css.map",
-    "main.8f2e0979.js.map": "/static/js/main.8f2e0979.js.map",
+    "main.92e4c1a8.css.map": "/static/css/main.92e4c1a8.css.map",
+    "main.a7f10d69.js.map": "/static/js/main.a7f10d69.js.map",
     "787.5793e504.chunk.js.map": "/static/js/787.5793e504.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9aae9d02.css",
-    "static/js/main.8f2e0979.js"
+    "static/css/main.92e4c1a8.css",
+    "static/js/main.a7f10d69.js"
   ]
 }
