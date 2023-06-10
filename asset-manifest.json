@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.fdbb0de0.css",
+    "main.css": "./static/css/main.e35b20df.css",
     "main.js": "./static/js/main.eccfd584.js",
     "static/js/787.5793e504.chunk.js": "./static/js/787.5793e504.chunk.js",
     "static/media/PingFangSimple.ttf": "./static/media/PingFangSimple.fba8470f357075fc3481.ttf",
@@ -8,12 +8,12 @@
     "static/media/SourceHanSansCN-Regular.otf": "./static/media/SourceHanSansCN-Regular.31bd8a696e59644243d6.otf",
     "static/media/MiSans-Normal.ttf": "./static/media/MiSans-Normal.65cb6e984a400e403e33.ttf",
     "index.html": "./index.html",
-    "main.fdbb0de0.css.map": "./static/css/main.fdbb0de0.css.map",
+    "main.e35b20df.css.map": "./static/css/main.e35b20df.css.map",
     "main.eccfd584.js.map": "./static/js/main.eccfd584.js.map",
     "787.5793e504.chunk.js.map": "./static/js/787.5793e504.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdbb0de0.css",
+    "static/css/main.e35b20df.css",
     "static/js/main.eccfd584.js"
   ]
 }
