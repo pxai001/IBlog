@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.111c02b4.css",
-    "main.js": "./static/js/main.6358d21e.js",
+    "main.css": "./static/css/main.3af5fe0d.css",
+    "main.js": "./static/js/main.4d049e9c.js",
     "static/js/787.5793e504.chunk.js": "./static/js/787.5793e504.chunk.js",
     "static/media/PingFangSimple.ttf": "./static/media/PingFangSimple.fba8470f357075fc3481.ttf",
     "static/media/OPPOSans-R.ttf": "./static/media/OPPOSans-R.b4f47a06ab6d6eb6e24c.ttf",
     "static/media/SourceHanSansCN-Regular.otf": "./static/media/SourceHanSansCN-Regular.31bd8a696e59644243d6.otf",
     "static/media/MiSans-Normal.ttf": "./static/media/MiSans-Normal.65cb6e984a400e403e33.ttf",
+    "static/media/lightBg.webp": "./static/media/lightBg.7ae4b68b2d76d4d865a2.webp",
+    "static/media/darkBg.webp": "./static/media/darkBg.26f5599d44da908e4f8e.webp",
     "index.html": "./index.html",
-    "main.111c02b4.css.map": "./static/css/main.111c02b4.css.map",
-    "main.6358d21e.js.map": "./static/js/main.6358d21e.js.map",
+    "main.3af5fe0d.css.map": "./static/css/main.3af5fe0d.css.map",
+    "main.4d049e9c.js.map": "./static/js/main.4d049e9c.js.map",
     "787.5793e504.chunk.js.map": "./static/js/787.5793e504.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.111c02b4.css",
-    "static/js/main.6358d21e.js"
+    "static/css/main.3af5fe0d.css",
+    "static/js/main.4d049e9c.js"
   ]
 }
