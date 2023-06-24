@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.cf96126b.css",
-    "main.js": "./static/js/main.704fa876.js",
+    "main.css": "./static/css/main.62511bf6.css",
+    "main.js": "./static/js/main.78545b74.js",
     "static/js/787.5793e504.chunk.js": "./static/js/787.5793e504.chunk.js",
     "static/media/PingFangSimple.ttf": "./static/media/PingFangSimple.fba8470f357075fc3481.ttf",
     "static/media/OPPOSans-R.ttf": "./static/media/OPPOSans-R.b4f47a06ab6d6eb6e24c.ttf",
@@ -10,12 +10,12 @@
     "static/media/lightBg.webp": "./static/media/lightBg.7ae4b68b2d76d4d865a2.webp",
     "static/media/darkBg.webp": "./static/media/darkBg.26f5599d44da908e4f8e.webp",
     "index.html": "./index.html",
-    "main.cf96126b.css.map": "./static/css/main.cf96126b.css.map",
-    "main.704fa876.js.map": "./static/js/main.704fa876.js.map",
+    "main.62511bf6.css.map": "./static/css/main.62511bf6.css.map",
+    "main.78545b74.js.map": "./static/js/main.78545b74.js.map",
     "787.5793e504.chunk.js.map": "./static/js/787.5793e504.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf96126b.css",
-    "static/js/main.704fa876.js"
+    "static/css/main.62511bf6.css",
+    "static/js/main.78545b74.js"
   ]
 }
