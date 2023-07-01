@@ -29,11 +29,12 @@ npm run eject
 function Home(props) {
     // 依赖设置为空，表示为只有第一次加载时执行，避免重复请求
     // react@v18 app.js 中使用 <React.StrictMode> 严格模式下， useEffect 会执行两遍，但生产环境不影响
+   let ref = useRef();
     useEffect(() => {
         console.log('请求 API');
     }, [])
     return (
-        <div>
+        <div ref={ref}>
             Home
         </div>
     )
@@ -115,4 +116,9 @@ const b = searchParams.get("b");
 // 当前路径名
 const location = useLocation();
 const cpathname = location.pathname; 
+```
+## 打包
+### 打包路径404问题
+```react
+package.json修改："homepage": "./",
 ```
